@@ -1,0 +1,16 @@
+.search-btn {
+    background-color: #00a633;
+    padding: 2px 8px 2px 8px;
+    color: white;
+    margin-left: 1px;
+}
+
+.search-btn:hover {
+    background-color: #005f1d;
+    cursor: pointer;
+}
+
+.emoji {
+    margin-left: 5px;
+    margin-right: 5px;
+}
